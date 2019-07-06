@@ -4,6 +4,6 @@ Codes in this repository is an implement of HAN model, which is based on GRU net
 
 I use Amazon Review datasets to do this implement.
 
-And my codes is referring to [Irvinglove's codes](https://github.com/Irvinglove/HAN-text-classification).
+And my codes are referring to [Irvinglove's codes](https://github.com/Irvinglove/HAN-text-classification).
 
 Thank to all.
