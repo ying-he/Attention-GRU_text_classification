@@ -12,7 +12,7 @@ I use Amazon Review datasets to do this implement.
 
 - numpy
 
-- gensim (for training word2vec model and obtain word embeddings)
+- gensim (for training word2vec model and obtaining word embeddings)
 
 
 And my codes are referring to [Irvinglove's codes](https://github.com/Irvinglove/HAN-text-classification).
