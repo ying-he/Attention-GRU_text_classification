@@ -4,6 +4,17 @@ Codes in this repository is an implement of HAN model, which is based on GRU net
 
 I use Amazon Review datasets to do this implement.
 
+**Version requirements**:
+
+- Python 3.6
+
+- Tensorflow 1.12+
+
+- numpy
+
+- gensim (for training word2vec model and obtain word embeddings)
+
+
 And my codes are referring to [Irvinglove's codes](https://github.com/Irvinglove/HAN-text-classification).
 
 Thank to all.
